@@ -9,7 +9,7 @@
 
 ### 🤝 Connect with me:
 
-[<img alt="berezansky | telegram" src="https://img.shields.io/badge/telegram-E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=blue"/>][telegram]
+[<img alt="berezansky | telegram" src="https://img.shields.io/badge/telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
 &nbsp;
 [<img alt="artem-khudiakov | linkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedIn]
 
