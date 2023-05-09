@@ -10,7 +10,7 @@
 ### 🤝 Connect with me:
 
 [<img alt="berezansky | telegram" src="https://img.shields.io/badge/telegram-E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
-[<img alt="+79899512270 | whatsapp" src="https://img.shields.io/badge/whatsapp-E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
+&nbsp;
 [<img alt="artem-khudiakov | linkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedIn]
 
 ### 💻 Tech Stack:
