@@ -1,4 +1,4 @@
-### Hi , I'm Artem. I'm a frontend developer, and I absolutely love bringing beautiful and engaging websites to life./>
+### Hi, I'm Artem. I'm a front-end developer, and I absolutely love bringing beautiful and engaging websites to life
 
 ## - I'm actively seeking new opportunities to apply my skills and make a positive impact.
 
