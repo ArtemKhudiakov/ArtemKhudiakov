@@ -2,8 +2,6 @@
 
 I'm a front-end developer, and I absolutely love bringing beautiful and engaging websites to life
 
-## - I'm actively seeking new opportunities to apply my skills and make a positive impact.
-
 - I'm a friendly and passionate frontend developer with over one year of experience.
 - I find immense joy in expanding my skill set and staying up-to-date with the latest technologies and industry trends.
 - Learning is not just a necessity for me; it's a source of inspiration and excitement.
